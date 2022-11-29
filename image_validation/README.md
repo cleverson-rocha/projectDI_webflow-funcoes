@@ -10,8 +10,8 @@
 
     **Banner**
 
-    Proporção padrão => 1280x640
+    > Proporção padrão => 1280x640
 
     **Icone**
     
-    Proporção padrão => 672x672
+    > Proporção padrão => 672x672
